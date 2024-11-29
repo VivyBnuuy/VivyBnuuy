@@ -5,6 +5,7 @@
 
 <h2 align="center">You can find my work here 💪</h2>
 <p align="center">
+  <a href="https://frontendmentor.io/profile/VivyBnuuy"><img src="https://img.shields.io/badge/Frontend%20Mentor-blue?style=for-the-badge&logo=frontendmentor"></a>
   <a href="https://github.com/VivyBnuuy?tab=repositories"><img src="https://img.shields.io/badge/Github Repositories-black?style=for-the-badge&logo=github" alt="GiHhub Logo"></a>
 </p>
 
